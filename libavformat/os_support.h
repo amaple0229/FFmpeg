@@ -28,7 +28,7 @@
  */
 
 #include "config.h"
-
+#include <winerror.h>
 #include <sys/stat.h>
 
 #ifdef _WIN32
